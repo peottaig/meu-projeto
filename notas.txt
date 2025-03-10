@@ -1,0 +1,4 @@
+Este repositório foi criado para demonstrar habilidades no uso do GitHub, abrangendo aspectos como criação e gerenciamento de repositórios,
+ organização de commits e branches, uso eficiente do README para documentar projetos e colaboração em fluxos de trabalho. Explore os arquivos
+  e commits para entender melhor o processo.
+
