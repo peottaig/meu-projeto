@@ -1,0 +1,3 @@
+Um breach no GitHub pode expor códigos, dados e informações sensíveis, destacando a importância de práticas robustas
+ de segurança para proteger repositórios e colaboradores.
+
